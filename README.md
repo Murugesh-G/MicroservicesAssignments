@@ -1,2 +1,2 @@
-# redureka_microservices_assignments
-Contains Module based assignments
+# Java microservices_assignment
+
